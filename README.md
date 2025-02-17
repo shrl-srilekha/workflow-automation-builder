@@ -6,7 +6,6 @@
 Clone the project
 
 Go to the project directory
-  cd workflow-automation-builder
 
 Install dependencies
   npm install
